@@ -12,6 +12,7 @@
 * [css参考手册](http://css.doyoe.com/)
 * [Github资源收集](https://segmentfault.com/a/1190000003510001?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 * [最全前端资源](https://github.com/nicejade/Front-end-tutorial)
+* [字蛛中文字体压缩器](http://font-spider.org/)
 
 ### Git相关
 * [廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
