@@ -1,5 +1,5 @@
 # LINKS 
-# 欢迎加入【高质量分享俱乐部：QQ：198169517】，与大家分享你收藏的精品。
+# 欢迎加入【高质量分享俱乐部：QQ：946245813】，与大家分享你收藏的精品。
 >- 收录作品，必属精品！！！
 >- 轻便，收藏夹扩展
 
@@ -12,6 +12,9 @@
 * [css参考手册](http://css.doyoe.com/)
 * [Github资源收集](https://segmentfault.com/a/1190000003510001?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 * [最全前端资源](https://github.com/nicejade/Front-end-tutorial)
+
+### Git相关
+*[廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 ### React相关
 * [React中文索引](http://nav.react-china.org/)
