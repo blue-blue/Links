@@ -13,6 +13,7 @@
 * [Github资源收集](https://segmentfault.com/a/1190000003510001?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 * [最全前端资源](https://github.com/nicejade/Front-end-tutorial)
 * [字蛛中文字体压缩器](http://font-spider.org/)
+* [50多种纯 CSS3 的鼠标悬停效果和动画](http://yaochuxia.github.io/hover)
 
 ### Git相关
 * [廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
